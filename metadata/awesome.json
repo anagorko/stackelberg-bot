@@ -1,0 +1,14 @@
+{
+  "er": 1,
+  "gr": 2,
+  "experiments": [
+    "awesome",
+    "milp.lb",
+    "milp.ub",
+    "uniform_sampling",
+    "titfortat",
+    "blackwell"
+  ],
+  "generator": "random_10",
+  "time": 30
+}

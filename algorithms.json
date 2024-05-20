@@ -1,0 +1,8 @@
+{
+  "awesome": {
+    "class": "awesome.Awesome",
+    "color": "red",
+    "hatch": "XXXX",
+    "label": "Awesome Algorithm"
+  }
+}

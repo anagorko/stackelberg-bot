@@ -1,0 +1,1 @@
+bsgmc @ git+ssh://git@github.com/anagorko/monte-carlo-methods.git
