@@ -1,8 +1,10 @@
 {
-  "awesome": {
-    "class": "awesome.Awesome",
-    "color": "red",
-    "hatch": "XXXX",
-    "label": "Awesome Algorithm"
+  "algorithm": {
+    "awesome": {
+      "class": "awesome.Awesome",
+      "color": "red",
+      "hatch": "XXXX",
+      "label": "Awesome Algorithm"
+    }
   }
 }
